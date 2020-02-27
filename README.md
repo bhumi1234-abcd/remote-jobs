@@ -12,7 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+Interest and/or experience in:
+Agronomy, horticulture, soil science, hydrology, weather and climate, botany and phenology, or any other agriculturally relevant field.
+Remote sensing techniques derived data and the underlying physics.
+Reading scientific journals and converting research methods into code.
+Creating and maintaining code with an elegant logical structure.
+Essential Functions:
+# Header 2
 ### Header 3
 
 - Bulleted
